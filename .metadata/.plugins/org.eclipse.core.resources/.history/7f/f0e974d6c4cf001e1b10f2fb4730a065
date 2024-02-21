@@ -1,0 +1,15 @@
+package org.kh.java;
+
+public class Operation5 {
+
+	public static void main(String[] args) {
+		// 관계 연산자
+		
+		int a = 25;
+		int b = 28;
+		int c = 27;
+
+		System.out.println("a와 b가 같나요? "+(a==b));
+	}
+
+}
