@@ -59,6 +59,9 @@ public class Conditon4 {
 				a= "학업우수상";
 				break;
 			case  "A0" : 
+				a= "장려상";
+				break;
+			case  "A-" : 
 				a= "노력상";
 				break;
 		
