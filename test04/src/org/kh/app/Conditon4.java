@@ -64,6 +64,9 @@ public class Conditon4 {
 			case  "A-" : 
 				a= "노력상";
 				break;
+				
+			default:
+				a = "없음";
 		
 		}
 		System.out.printf("\n시상 : %s \n" ,a );
@@ -72,3 +75,5 @@ public class Conditon4 {
 	}
 
 }
+
+
