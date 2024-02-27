@@ -1,9 +1,0 @@
-package org.kh.java;
-
-public class Casting1 {
-
-	public static void main(String[] args) {
-		// 형 변환
-	}
-
-}
